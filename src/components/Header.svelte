@@ -11,6 +11,7 @@
 <style>
     header {
         display: flex;
+        flex-wrap: wrap;
         justify-content: space-between;
         font-size: 1rem;
         font-family: "Inter", sans-serif;
@@ -24,6 +25,11 @@
         height: 10px;
     }
 
+    @media only screen and (max-width: 900px) {
+        header {
+            padding: 5px 10px 30px 10px;
+        }
+    }
     nav {
         display: flex;
         gap: 20px;

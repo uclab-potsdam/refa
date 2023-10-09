@@ -16,16 +16,27 @@ h1 {
     font-family: "Redaction";
     font-size: 22px;
     line-height: 22px;
-    text-align: center;
+    text-align: right;
 }
 
 .blocks {
     display: grid;
-    grid-gap: 10px;
-    grid-template-columns: repeat(4,calc(25% - 10px));
+    /* grid-template-columns: repeat(3,calc(33.3% - 10px)); */
+    grid-template-columns: 1fr 1.5fr 2fr;
     align-items: start;
-    max-width: 1440px;
+    grid-template-rows: auto;
+    grid-gap: 10px;
+    max-width: 100%;
+    width: 900px;
     margin: 0 auto;
+}
+
+
+@media only screen and (max-width: 900px) {
+    .blocks {
+        display: block;
+        padding: 10px;
+    }
 }
 
 img {
@@ -36,8 +47,8 @@ img {
     align-self: stretch;
     font-family: "Inter", sans-serif;
     font-weight: 450;
-    font-size: 19px;
-    line-height: 21px;
+    font-size: 16px;
+    line-height: 20px;
 }
 
 .elem > * {

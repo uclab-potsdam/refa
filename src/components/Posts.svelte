@@ -4,14 +4,17 @@
 </script>
 
 <div class="elem">
+    <h1>{data.meta.title}</h1>
+</div>
+
+<div class="elem">
     <div>
-        <h1>{data.meta.title}</h1>
         {@html data.text}
     </div>
 </div>
 
-{#each data.meta.media as img}
-    <div class="elem">
+<div>
+    {#each data.meta.media as img, idx}
         <img src={img} alt="Cover Images" />
-    </div>
-{/each}
+    {/each}
+</div>
