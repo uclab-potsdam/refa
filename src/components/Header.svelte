@@ -2,13 +2,39 @@
     <h2>Restaging Fashion</h2>
 
     <nav>
-        <div>About the project</div>
-        <div>Visual interface</div>
-        <div>Catalogue</div>
+        <div
+            on:click={(d) => {
+                document.getElementById("/texts/0_approach").scrollIntoView({
+                    behavior: "smooth",
+                    block: "start",
+                    inline: "nearest",
+                });
+            }}
+            on:keypress={(d) => {
+                document.getElementById("/texts/0_approach").scrollIntoView({
+                    behavior: "smooth",
+                    block: "start",
+                    inline: "nearest",
+                });
+            }}
+        >
+            About the project
+        </div>
+        <div><a href="/" target="_blank">Visual interface</a></div>
+        <div><a href="/" target="_blank">Catalogue</a></div>
     </nav>
 </header>
 
 <style>
+    div {
+        cursor: pointer;
+    }
+    
+    a {
+        text-decoration: none;
+        color: black;
+    }
+
     header {
         display: flex;
         flex-wrap: wrap;

@@ -1,9 +1,8 @@
 <script>
     export let data;
-    console.log(data);
 </script>
 
-<div class="elem">
+<div class="elem" id={data.path}>
     <h1>{data.meta.title}</h1>
 </div>
 
