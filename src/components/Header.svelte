@@ -1,5 +1,5 @@
 <header>
-    <h1>Restaging Fashion</h1>
+    <h2>Restaging Fashion</h2>
 
     <nav>
         <div>About the project</div>
@@ -35,7 +35,7 @@
         gap: 20px;
     }
 
-    h1 {
+    h2 {
         margin: 0;
         font-size: 1rem;
         font-family: "Inter", sans-serif;
