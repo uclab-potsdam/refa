@@ -1,8 +1,8 @@
 ---
 title: The collection
-media : ["https://uclab.fh-potsdam.de/refa/files/large/b4346864d66d506867e9759f086ba9c927ca3343.jpg"]
+media : []
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The collection of paintings and miniatures by the publishing couple Franz and Frieda von Lipperheide, gathered while traveling in Germany, Austria, Italiy and Switzerland was conserved, digitised and recorded in terms of its clothing-historical content and source value in the context of the project. This was supplemented by 1,000 selected prints or hand drawings from their collection and later donation to the library. These are understood as both conceptualizing and complementing pictorial sources.
+Furthermore, a total of 15 historical clothing items from the Nuremberg textile collection serve as material evidence and are viewable and navigable in 3D.
+In addition, archival documents on the history of the painting and miniature collection situate the collection objects in the historical context of the 19th century and document both the genesis and the division of the collection after the Second World War and its reunification after the fall of the Berlin Wall at the Berlin Kulturforum. In addition, exemplary historical text sources were selected to complete the source triad of image-text-clothing and to exemplify the methodological approach of the project.

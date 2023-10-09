@@ -30,12 +30,12 @@ h1 {
 .blocks {
     display: grid;
     /* grid-template-columns: repeat(3,calc(33.3% - 10px)); */
-    grid-template-columns: 1fr 1.5fr 2fr;
+    grid-template-columns: 1fr 3fr 2fr;
     align-items: start;
     grid-template-rows: auto;
     grid-gap: 10px;
     max-width: 100%;
-    width: 900px;
+    width: 1280px;
     margin: 0 auto;
 }
 
