@@ -1,7 +1,9 @@
-import adapter from '@sveltejs/adapter-auto';
+// import adapter from '@sveltejs/adapter-auto';
+import adapter from '@sveltejs/adapter-static';
 import preprocess from 'svelte-preprocess';
 import { mdsvex } from 'mdsvex';
 import mdsvexConfig from './mdsvex.config.js';
+const dev = process.argv.includes('dev');
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -10,7 +12,10 @@ const config = {
 		mdsvex(mdsvexConfig)
 	],
 	kit: {
-		adapter: adapter(),
+		adapter:adapter({precompress:true}),
+		paths: {
+			base: dev ? '' : process.env.BASE_PATH,
+		},
 		alias: {
 			'@components': 'src/components',
 			'@stores': 'src/stores.js',
