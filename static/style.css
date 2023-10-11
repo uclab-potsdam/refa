@@ -46,7 +46,10 @@ ul,ol {
 
 @media only screen and (max-width: 900px) {
     .blocks {
-        display: block;
+        grid-template-columns: 1fr;
+    }
+
+    .blocks > * {
         padding: 10px;
     }
 }
