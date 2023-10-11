@@ -14,6 +14,17 @@
 
 <div>
     {#each data.meta.media as img, idx}
-        <img src={img} alt="Cover Images" />
+        <figure>
+            <img src={img.source} alt={img.cap} />
+            <figcaption>{img.cap}</figcaption>
+        </figure>
     {/each}
 </div>
+
+<style>
+    figcaption {
+        font-size: 0.75rem;
+        color: #9a9a9a;
+        font-family: "Inter", sans-serif;
+    }
+</style>
