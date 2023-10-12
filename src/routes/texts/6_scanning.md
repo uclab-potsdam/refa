@@ -16,4 +16,5 @@ media : [
 ]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Textiles are still a challenging material for digital 3D reproduction; they are fragile, rich in detail and often difficult to stabilize. The selection of historical clothing made represents different levels of complexity.The 3D scanning strategy was adopted on site to the specific object characteristics. 
+The data acquisition was carried out using the photogrammetric approach (SFM, Structure-from-Motion) for all objects on the one hand, and the  Artec 3D Leo hand-held scanner on the other. This operates wirelessly and with its own light source. The processing of the data for the photogrammetry was done with Metashape and for the Artec Leo with the software Artec Studio. Where the data complemented each other well, the photogrammetric image data was merged with the three-dimensional body data captured by the hand-held scanner. An attempt was made to represent the garments in three-dimensional space in order to capture textile details [link].
