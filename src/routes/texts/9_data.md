@@ -3,7 +3,7 @@ title: DATA explanation  & Download packages
 media : [
     {
         source: "https://uclab.fh-potsdam.de/refa/files/asset/b2a44bf793682399ba5c952fc1659f80f6c49225.png",
-        cap: "caption",
+        cap: "",
     },
 ]
 ---

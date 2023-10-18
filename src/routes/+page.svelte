@@ -1,5 +1,4 @@
 <script>
-    import { onMount } from "svelte";
     import Cover from "@components/Cover.svelte";
     import Posts from "@components/Posts.svelte";
 

@@ -16,7 +16,9 @@
     {#each data.meta.media as img, idx}
         <figure>
             <img src={img.source} alt={img.cap} />
-            <figcaption>{img.cap}</figcaption>
+            {#if img.cap}
+                <figcaption>{img.cap}</figcaption>
+            {/if}
         </figure>
     {/each}
 </div>
@@ -26,5 +28,10 @@
         font-size: 0.75rem;
         color: #9a9a9a;
         font-family: "Inter", sans-serif;
+        margin-bottom: 1rem;
+    }
+
+    figure {
+        margin: 0;
     }
 </style>

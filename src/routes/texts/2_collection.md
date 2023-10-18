@@ -2,12 +2,12 @@
 title: The collections
 media : [
     {
-        source: "https://uclab.fh-potsdam.de/refa/files/asset/c7b48cae702fd56291284b65d24f992bd451c542.jpeg",
-        cap: "caption",
+        source: "https://uclab.fh-potsdam.de/refa/files/asset/fd62d0f81f29836962a7d081061698b3feeedb00.jpeg",
+        cap: "",
     },
     {
-        source: "https://uclab.fh-potsdam.de/refa/files/asset/fd62d0f81f29836962a7d081061698b3feeedb00.jpeg",
-        cap: "caption",
+        source: "https://uclab.fh-potsdam.de/refa/files/asset/8c9ae52455e064ea9adcb06f545a41c7c06142cb.jpg",
+        cap: "",
     },
 ]
 ---

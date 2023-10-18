@@ -3,7 +3,7 @@ title: Data Modeling
 media : [
     {
         source: "https://uclab.fh-potsdam.de/refa/files/asset/d24606fd113f3235eb817a36332050a14169caf7.png",
-        cap: "caption",
+        cap: "",
     },
 ]
 ---
