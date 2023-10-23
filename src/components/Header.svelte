@@ -4,14 +4,14 @@
     <nav>
         <div
             on:click={(d) => {
-                document.getElementById("/texts/0_approach").scrollIntoView({
+                document.getElementById("/texts/0001_approach").scrollIntoView({
                     behavior: "smooth",
                     block: "start",
                     inline: "nearest",
                 });
             }}
             on:keypress={(d) => {
-                document.getElementById("/texts/0_approach").scrollIntoView({
+                document.getElementById("/texts/0001_approach").scrollIntoView({
                     behavior: "smooth",
                     block: "start",
                     inline: "nearest",
