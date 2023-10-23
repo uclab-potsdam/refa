@@ -1,5 +1,5 @@
 ---
-title: 3d scanning
+title: 3D scanning
 media : [
     {
         source: "https://uclab.fh-potsdam.de/refa/files/asset/1fd95abe767a7fb63bf0314e78d32bc95944565f.png",
@@ -20,5 +20,5 @@ media : [
 ]
 ---
 
-Textiles are still a challenging material for digital 3D reproduction; they are fragile, rich in detail and often difficult to stabilize. The selection of historical clothing made represents different levels of complexity.The 3D scanning strategy was adopted on site to the specific object characteristics. 
-The data acquisition was carried out using the photogrammetric approach (SFM, Structure-from-Motion) for all objects on the one hand, and the  Artec 3D Leo hand-held scanner on the other. This operates wirelessly and with its own light source. The processing of the data for the photogrammetry was done with Metashape and for the Artec Leo with the software Artec Studio. Where the data complemented each other well, the photogrammetric image data was merged with the three-dimensional body data captured by the hand-held scanner. An attempt was made to represent the garments in three-dimensional space in order to capture textile details [link].
+Textiles are a challenging material for digital 3D reproduction; they are fragile, rich in detail and often difficult to stabilize. The specific selections of historical clothing in *REstaging Fashion* represent different levels of complexity. The 3D scanning strategy was adopted on site to the specific object characteristics. Data acquisition was carried out using the photogrammetric approach (Structure-from-Motion) on one hand and the Artec 3D Leo hand-held scanner on the other. The latter operates wirelessly and with its own light source. The processing of the photogrammetric data was done with Metashape and of the 3D-scanning data with Artec Studio. In cases where the data complemented each other well, the photogrammetric data was merged with the 3D body data captured by the scanner. 
+An attempt was made to represent the garments in a 3D space, in order to capture their textile details [link].
