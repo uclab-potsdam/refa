@@ -3,10 +3,10 @@ title: Associates
 media : []
 ---
 
-Thuja Seidel/ Restoration, Conservation
+[Thuja Seidel](https://thujaseidel.de)/ Restoration, Conservation
 
 Dietmar Katz/ Photography
 
-Oliver Bruderer/ 3D Visualization
+[Oliver Bruderer](https://archaeovisual.ch)/ 3D Visualization
 
 Martin Schulze/ Student researcher
