@@ -19,6 +19,13 @@ h1 {
     text-align: right;
 }
 
+a {
+    color: black;
+    text-decoration: underline dotted;
+    text-decoration-color: blue;
+}
+ 
+
 @media only screen and (max-width: 900px) {
     h1 {
         padding-top: 5rem;
