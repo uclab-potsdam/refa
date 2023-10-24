@@ -2,13 +2,13 @@
 title: Partners
 media : []
 ---
-[Kunstbibliothek Berlin, Lipperheidesche Kostümbibliothek - Sammlung Modebild](https://www.smb.museum/museen-einrichtungen/kunstbibliothek/sammeln-forschen/ueber-die-sammlungen/sammlung-modebild-lipperheidesche-kostuembibliothek/)
+Kunstbibliothek Berlin, Lipperheidesche Kostümbibliothek - Sammlung Modebild [link](https://www.smb.museum/museen-einrichtungen/kunstbibliothek/sammeln-forschen/ueber-die-sammlungen/sammlung-modebild-lipperheidesche-kostuembibliothek/)
 
 Britta Bommert/ Head of collection
 
 Hildegard Ringena/ Museologist
 
-[Germanisches Nationalmuseum Nuremberg](https://www.gnm.de/sammlungen/sammlungen-a-z/textilien-kleidung-und-schmuck)
+Germanisches Nationalmuseum Nuremberg [link](https://www.gnm.de/sammlungen/sammlungen-a-z/textilien-kleidung-und-schmuck)
 
 Adelheid Rasche/ Head of collection
 
