@@ -25,7 +25,6 @@ a {
     text-decoration-color: blue;
 }
  
-
 @media only screen and (max-width: 900px) {
     h1 {
         padding-top: 5rem;
