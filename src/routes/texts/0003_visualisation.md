@@ -1,5 +1,5 @@
 ---
-title: Visualisation experiments
+title: Visualization experiments
 media : [
     {
         source: "https://uclab.fh-potsdam.de/refa-catalog/files/asset/d25193a136394037b266f43cdc4aa5682c82b2db.png",
