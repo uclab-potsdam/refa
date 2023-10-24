@@ -3,7 +3,6 @@ title: Partners
 media : []
 ---
 [Kunstbibliothek Berlin, Lipperheidesche Kostümbibliothek - Sammlung Modebild](https://www.smb.museum/museen-einrichtungen/kunstbibliothek/sammeln-forschen/ueber-die-sammlungen/sammlung-modebild-lipperheidesche-kostuembibliothek/)
-https://www.smb.museum/museen-einrichtungen/kunstbibliothek/sammeln-forschen/ueber-die-sammlungen/sammlung-modebild-lipperheidesche-kostuembibliothek/
 
 Britta Bommert/ Head of collection
 
