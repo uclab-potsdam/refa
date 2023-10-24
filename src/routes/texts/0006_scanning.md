@@ -2,19 +2,19 @@
 title: 3D scanning
 media : [
     {
-        source: "https://uclab.fh-potsdam.de/refa/files/asset/1fd95abe767a7fb63bf0314e78d32bc95944565f.png",
+        source: "https://uclab.fh-potsdam.de/refa-catalog/files/asset/1fd95abe767a7fb63bf0314e78d32bc95944565f.png",
         cap: "Merging 3d data from different scans in Artec Studio.",
     },
     {
-        source: "https://uclab.fh-potsdam.de/refa/files/asset/95842672babccb3e6a4eafba40168e4ce19f3d88.png",
+        source: "https://uclab.fh-potsdam.de/refa-catalog/files/asset/95842672babccb3e6a4eafba40168e4ce19f3d88.png",
         cap: "",
     },
     {
-        source: "https://uclab.fh-potsdam.de/refa/files/asset/1287fb1d2b1a13d0d17040c0dd7e4af3b7d4fb03.png",
+        source: "https://uclab.fh-potsdam.de/refa-catalog/files/asset/1287fb1d2b1a13d0d17040c0dd7e4af3b7d4fb03.png",
         cap: "Screenshots of the Ärmeljacke in Artec Studio.",
     },
     # {
-    #     source: "https://uclab.fh-potsdam.de/refa/files/asset/606eacc212e5aa0c10e226f4ee9e6c3880cb3a50.gif",
+    #     source: "https://uclab.fh-potsdam.de/refa-catalog/files/asset/606eacc212e5aa0c10e226f4ee9e6c3880cb3a50.gif",
     #     cap: "",
     # },
 ]

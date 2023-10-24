@@ -2,11 +2,11 @@
 title: Visualisation experiments
 media : [
     {
-        source: "https://uclab.fh-potsdam.de/refa/files/asset/d25193a136394037b266f43cdc4aa5682c82b2db.png",
+        source: "https://uclab.fh-potsdam.de/refa-catalog/files/asset/d25193a136394037b266f43cdc4aa5682c82b2db.png",
         cap: "Painting and miniatures sorted by visual similarity.",
     },
     {
-        source: "https://uclab.fh-potsdam.de/refa/files/asset/3990aa4021c25cf826bc9297ebb4868a6b300689.gif",
+        source: "https://uclab.fh-potsdam.de/refa-catalog/files/asset/3990aa4021c25cf826bc9297ebb4868a6b300689.gif",
         cap: "An early prototype of the ReFa reader.",
     },
 ]
