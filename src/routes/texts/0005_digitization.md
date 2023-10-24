@@ -3,11 +3,11 @@ title: Conservation and Digitization
 media : [
     {
         source: "https://uclab.fh-potsdam.de/refa-catalog/files/asset/1d704a67cc4a4819ddd72f4fb49e7b8299d023eb.jpg",
-        cap: "",
+        cap: "Setting the distance to the scanner",
     },
         {
         source: "https://uclab.fh-potsdam.de/refa-catalog/files/asset/ae8d266f2d265088911f20b7e40d55cea47020f3.jpg",
-        cap: "",
+        cap: "Setup in the Depot",
     }
 ]
 ---
