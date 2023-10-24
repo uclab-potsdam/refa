@@ -3,7 +3,7 @@ title: 3D scanning
 media : [
     {
         source: "https://uclab.fh-potsdam.de/refa-catalog/files/asset/1fd95abe767a7fb63bf0314e78d32bc95944565f.png",
-        cap: "Merging 3d data from different scans in Artec Studio.",
+        cap: "Merging 3D data from different scans in Artec Studio.",
     },
     #{
     #    source: "https://uclab.fh-potsdam.de/refa-catalog/files/asset/95842672babccb3e6a4eafba40168e4ce19f3d88.png",
