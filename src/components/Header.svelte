@@ -20,8 +20,8 @@
         >
             About the project
         </div>
-        <div><a href="/" target="_blank">Visual interface</a></div>
-        <div><a href="https://uclab.fh-potsdam.de/refa-catalog/s/pinacotheca/page/home" target="_blank">Catalogue</a></div>
+        <div><a href="https://refareader.fh-potsdam.de/" target="_blank">Visual interface</a></div>
+        <div><a href="https://uclab.fh-potsdam.de/refa-catalog/" target="_blank">Catalogue</a></div>
     </nav>
 </header>
 
