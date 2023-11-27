@@ -13,7 +13,7 @@
 
         width: 100vw;
         height: 70vh;
-        background-image: url("/cover.png");
+        background-image: url("/cover_hr.png");
         background-size: 80% auto;
         background-repeat: no-repeat;
         background-position: center;
