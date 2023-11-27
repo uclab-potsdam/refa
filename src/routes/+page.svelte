@@ -1,7 +1,7 @@
 <script>
     import Cover from "@components/Cover.svelte";
     import Posts from "@components/Posts.svelte";
-
+    import Footer from "@components/Footer.svelte";
     export let data;
 </script>
 
@@ -12,3 +12,6 @@
         <Posts data={text} />
     {/each}
 </div>
+<Footer />
+
+
