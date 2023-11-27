@@ -1,5 +1,5 @@
 ---
-title: Restaging Fashion
+title: About the project
 media : []
 ---
 
