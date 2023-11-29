@@ -1,5 +1,5 @@
 ---
-title: Publications & Presentations
+title: Publications
 media : []
 ---
 
