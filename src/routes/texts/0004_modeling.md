@@ -1,5 +1,5 @@
 ---
-title: Data Modeling
+title: Data modeling
 media : [
     {
         source: "https://uclab.fh-potsdam.de/refa-catalog/files/asset/d24606fd113f3235eb817a36332050a14169caf7.png",
