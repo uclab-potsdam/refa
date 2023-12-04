@@ -1,5 +1,5 @@
 ---
-title: Conservation and Digitization
+title: Conservation and digitization
 media : [
     {
         source: "https://uclab.fh-potsdam.de/refa-catalog/files/asset/1d704a67cc4a4819ddd72f4fb49e7b8299d023eb.jpg",
