@@ -1,10 +1,10 @@
 <section>
     <div>
         <a href="http://www.fh-potsdam.de"
-            ><img alt="fhp logo" style="width:16rem;" src="./fhp.svg" /></a
+            ><img alt="fhp logo" style="width:16vw;" src="./fhp.svg" /></a
         >
         <a href="http://uclab.fh-potsdam.de"
-            ><img alt="uclab logo" style="width:10rem;" src="./uclab.svg" /></a
+            ><img alt="uclab logo" style="width:10vw;" src="./uclab.svg" /></a
         >
     </div>
     <div>
@@ -19,6 +19,7 @@
 
 <style>
     div {
+        width: 100%;
         max-width: 840px;
         margin: auto;
         display: flex;
@@ -27,6 +28,10 @@
     }
 
     a {
-        padding: 18px;
+        padding: 10px;
+    }
+
+    img {
+        min-width: 100px;
     }
 </style>
