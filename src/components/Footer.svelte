@@ -28,7 +28,8 @@
     }
 
     a {
-        padding: 10px;
+        padding: 2rem;
+
     }
 
     img {

@@ -1,13 +1,8 @@
 ---
 title: The collections
-media : [
-    {
-        source: "https://uclab.fh-potsdam.de/refa-catalog/files/asset/fd62d0f81f29836962a7d081061698b3feeedb00.jpeg",
-        cap: "View of the reading room after the opening of the Lipperheide Costume Library in 1906",
-    },
-    {
+media : [    {
         source: "https://uclab.fh-potsdam.de/refa-catalog/files/asset/8c9ae52455e064ea9adcb06f545a41c7c06142cb.jpg",
-        cap: "Paintings in the Depot",
+        cap: "Paintings in the depot",
     },
 ]
 ---

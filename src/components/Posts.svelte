@@ -32,6 +32,6 @@
     }
 
     figure {
-        margin: 0;
+        margin: 1.25rem 0 0 0;
     }
 </style>
