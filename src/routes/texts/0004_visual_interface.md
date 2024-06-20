@@ -1,5 +1,5 @@
 ---
-title: ReFa Reader
+title: Visual interface
 media : [
     {
         source: "https://uclab.fh-potsdam.de/refa-catalog/files/asset/3990aa4021c25cf826bc9297ebb4868a6b300689.gif",
